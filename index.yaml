@@ -3,7 +3,17 @@ entries:
   simplewebapp:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-10-15T22:04:41.267207095Z"
+    created: "2022-10-15T22:10:39.271397547Z"
+    description: A Demo Helm chart for Kubernetes
+    digest: ada5232cb3df75bf7c3afe9ac038bb3fbf2181379689b8b98fc61cf415e7205a
+    name: simplewebapp
+    type: application
+    urls:
+    - Packages/simplewebapp-0.1.33.tgz
+    version: 0.1.33
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-10-15T22:10:39.270952458Z"
     description: A Demo Helm chart for Kubernetes
     digest: cb72cf64fbc3998d309dde1caf8fb6f57b82e6f971ed40db38d7759bff33fe7f
     name: simplewebapp
@@ -13,7 +23,7 @@ entries:
     version: 0.1.32
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-10-15T22:04:41.266699688Z"
+    created: "2022-10-15T22:10:39.270436671Z"
     description: A Demo Helm chart for Kubernetes
     digest: 70987dbb94892c92e2f4c6df29e3cee18ac0af7a2727a9dfee2449ee346efe41
     name: simplewebapp
@@ -23,7 +33,7 @@ entries:
     version: 0.1.31
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-10-15T22:04:41.266127481Z"
+    created: "2022-10-15T22:10:39.269952383Z"
     description: A Demo Helm chart for Kubernetes
     digest: b94392bb82e0b76f0d251bbc6ade1c023ad02128507e1b03257a11a1ae137acd
     name: simplewebapp
@@ -33,7 +43,7 @@ entries:
     version: 0.1.29
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-10-15T22:04:41.265624875Z"
+    created: "2022-10-15T22:10:39.269432795Z"
     description: A Demo Helm chart for Kubernetes
     digest: 7b974054c6b33936a83d25654b649ec9c1e7cc282293387d1a4b4a4ef19c6d39
     name: simplewebapp
@@ -43,7 +53,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-10-15T22:04:41.265123069Z"
+    created: "2022-10-15T22:10:39.268653414Z"
     description: A Helm chart for Kubernetes
     digest: 02533e4ab4e37a34f6a6358579cf219a4524b31f2ca2076bb02c7b7dfaa5dec5
     name: simplewebapp
@@ -51,4 +61,4 @@ entries:
     urls:
     - Packages/simplewebapp-0.1.0.tgz
     version: 0.1.0
-generated: "2022-10-15T22:04:41.26436336Z"
+generated: "2022-10-15T22:10:39.265929681Z"
