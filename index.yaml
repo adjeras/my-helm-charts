@@ -3,7 +3,17 @@ entries:
   simplewebapp:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-10-16T07:42:54.478908015Z"
+    created: "2022-10-16T07:46:55.944329303Z"
+    description: A Demo Helm chart for Kubernetes
+    digest: 42cb55595ce58fc05e210b404eadee5cd0a0c5d0f43dc25fd7295d4da07fd7f1
+    name: simplewebapp
+    type: application
+    urls:
+    - Packages/simplewebapp-0.1.41.tgz
+    version: 0.1.41
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-10-16T07:46:55.943287792Z"
     description: A Demo Helm chart for Kubernetes
     digest: b511f4218d76caea044c96f037805f237e6ce616e3dcc27cf42c2e6d79d5e32b
     name: simplewebapp
@@ -13,7 +23,7 @@ entries:
     version: 0.1.40
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-10-16T07:42:54.47841411Z"
+    created: "2022-10-16T07:46:55.94217498Z"
     description: A Demo Helm chart for Kubernetes
     digest: cc5bbacd9122b38862cf170f3ddc8c265fa764978239c880611a341dcc40e720
     name: simplewebapp
@@ -23,7 +33,7 @@ entries:
     version: 0.1.39
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-10-16T07:42:54.477913405Z"
+    created: "2022-10-16T07:46:55.941662375Z"
     description: A Demo Helm chart for Kubernetes
     digest: f6de97848024b15028ebb7ced7ab91a40b788167997b66ea044a3fd52acd0a8a
     name: simplewebapp
@@ -33,7 +43,7 @@ entries:
     version: 0.1.38
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-10-16T07:42:54.476835493Z"
+    created: "2022-10-16T07:46:55.94119477Z"
     description: A Demo Helm chart for Kubernetes
     digest: 7616510008b3c7322e70a942276b3bd7d8f10fbc9f42079c3940395106490d0e
     name: simplewebapp
@@ -43,7 +53,7 @@ entries:
     version: 0.1.37
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-10-16T07:42:54.476348088Z"
+    created: "2022-10-16T07:46:55.940714765Z"
     description: A Demo Helm chart for Kubernetes
     digest: e4780cb5e91573b2be5324460cc538530a0be6b976a8b1e1cf15d1606ebd9e97
     name: simplewebapp
@@ -53,7 +63,7 @@ entries:
     version: 0.1.36
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-10-16T07:42:54.475893283Z"
+    created: "2022-10-16T07:46:55.94024496Z"
     description: A Demo Helm chart for Kubernetes
     digest: 8afb172becc2497444f1bb733056edc1c4f945884a2b0c02df0bf29f46e560b0
     name: simplewebapp
@@ -63,7 +73,7 @@ entries:
     version: 0.1.35
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-10-16T07:42:54.475424978Z"
+    created: "2022-10-16T07:46:55.939755454Z"
     description: A Demo Helm chart for Kubernetes
     digest: b5e7302da5097fb6cfa3a98d07d527a4b59fd2f92ef3ef18a85ff14535746147
     name: simplewebapp
@@ -73,7 +83,7 @@ entries:
     version: 0.1.34
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-10-16T07:42:54.474957373Z"
+    created: "2022-10-16T07:46:55.939262649Z"
     description: A Demo Helm chart for Kubernetes
     digest: ada5232cb3df75bf7c3afe9ac038bb3fbf2181379689b8b98fc61cf415e7205a
     name: simplewebapp
@@ -83,7 +93,7 @@ entries:
     version: 0.1.33
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-10-16T07:42:54.474389467Z"
+    created: "2022-10-16T07:46:55.938786144Z"
     description: A Demo Helm chart for Kubernetes
     digest: cb72cf64fbc3998d309dde1caf8fb6f57b82e6f971ed40db38d7759bff33fe7f
     name: simplewebapp
@@ -93,7 +103,7 @@ entries:
     version: 0.1.32
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-10-16T07:42:54.473783061Z"
+    created: "2022-10-16T07:46:55.938268139Z"
     description: A Demo Helm chart for Kubernetes
     digest: 70987dbb94892c92e2f4c6df29e3cee18ac0af7a2727a9dfee2449ee346efe41
     name: simplewebapp
@@ -103,7 +113,7 @@ entries:
     version: 0.1.31
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-10-16T07:42:54.473260755Z"
+    created: "2022-10-16T07:46:55.937751033Z"
     description: A Demo Helm chart for Kubernetes
     digest: b94392bb82e0b76f0d251bbc6ade1c023ad02128507e1b03257a11a1ae137acd
     name: simplewebapp
@@ -113,7 +123,7 @@ entries:
     version: 0.1.29
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-10-16T07:42:54.47276075Z"
+    created: "2022-10-16T07:46:55.937200827Z"
     description: A Demo Helm chart for Kubernetes
     digest: 7b974054c6b33936a83d25654b649ec9c1e7cc282293387d1a4b4a4ef19c6d39
     name: simplewebapp
@@ -123,7 +133,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-10-16T07:42:54.472253044Z"
+    created: "2022-10-16T07:46:55.936202317Z"
     description: A Helm chart for Kubernetes
     digest: 02533e4ab4e37a34f6a6358579cf219a4524b31f2ca2076bb02c7b7dfaa5dec5
     name: simplewebapp
@@ -131,4 +141,4 @@ entries:
     urls:
     - Packages/simplewebapp-0.1.0.tgz
     version: 0.1.0
-generated: "2022-10-16T07:42:54.471495436Z"
+generated: "2022-10-16T07:46:55.935467309Z"
